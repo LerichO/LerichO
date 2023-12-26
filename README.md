@@ -5,8 +5,8 @@ My name is **Lerich Osay**!
 I am an undergraduate Computer Science student from The University of Texas at Dallas that is determined to demonstrate my growing software engineering skills through this GitHub profile. Below are some projects that I am proud to share:
 
 * [Personal Planner Web Application](https://github.com/LerichO/planner-full-stack-app)
-* [MERN Full-Stack Exercise Tracker Application from freeCodeCamp.com](https://github.com/LerichO/mern-exercise-tracker)
 * [ACM Research - Conceal and Reveal: Exploring Image Steganography and Steganalysis](https://github.com/ACM-Research/Conceal-and-Reveal/)
+* [MERN Full-Stack Exercise Tracker Application from freeCodeCamp.com](https://github.com/LerichO/mern-exercise-tracker)
 * [homeAloan Minimum Viable Product for HackUTD X: Golden Hour](https://github.com/LerichO/homeAloan)
 * [Sea Monster Crowdfunding Application for CodePath WEB102's prework](https://github.com/LerichO/web102_prework)
 
