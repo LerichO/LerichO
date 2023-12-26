@@ -10,7 +10,7 @@ I am an undergraduate Computer Science student from The University of Texas at D
 * [Small Services Finder Flask application for FinTech Focus](https://github.com/LerichO/final-project)
 * [Sea Monster Crowdfunding for CodePath WEB102's prework](https://github.com/LerichO/web102_prework)
 
-And more throughout my repositories that are both work in progress and completed
+And more throughout my repositories that are both work in progress and completed!
 <!--
 **LerichO/LerichO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
