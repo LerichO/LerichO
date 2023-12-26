@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is **Lerich Osay**! 
+
+I am an undergraduate Computer Science student from The University of Texas at Dallas that is determined to demonstrate my growing software engineering skills through this GitHub profile. Below are some of my projects and other repositories that I am proud to share:
+
+* [Personal Planner Web Application](https://github.com/LerichO/planner-full-stack-app)
+* [MERN Full-Stack Exercise Tracker Application from freeCodeCamp.com](https://github.com/LerichO/mern-exercise-tracker)
+* [Small Services Finder](https://github.com/LerichO/final-project)
 <!--
 **LerichO/LerichO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
