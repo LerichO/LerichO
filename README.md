@@ -6,7 +6,7 @@ I am an undergraduate Computer Science student from The University of Texas at D
 
 * [Personal Planner Web Application](https://github.com/LerichO/planner-full-stack-app)
 * [MERN Full-Stack Exercise Tracker Application from freeCodeCamp.com](https://github.com/LerichO/mern-exercise-tracker)
-* [Small Services Finder](https://github.com/LerichO/final-project)
+* [Small Services Finder Flask application for FinTech Focus](https://github.com/LerichO/final-project)
 * [Sea Monster Crowdfunding for CodePath WEB102's prework](https://github.com/LerichO/web102_prework)
 <!--
 **LerichO/LerichO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
