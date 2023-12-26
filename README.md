@@ -2,7 +2,7 @@
 
 My name is **Lerich Osay**! 
 
-I am an undergraduate Computer Science student from The University of Texas at Dallas that is determined to demonstrate my growing software engineering skills through this GitHub profile.
+I am an undergraduate Computer Science student from The University of Texas at Dallas that is determined to demonstrate my growing software engineering skills through this GitHub profile. I look forward to any exciting oppurtunities and projects that I can contribute to!
 
 ## Some Projects I am Proud to Share:
 
