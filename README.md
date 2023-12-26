@@ -7,7 +7,7 @@ I am an undergraduate Computer Science student from The University of Texas at D
 * [Personal Planner Web Application](https://github.com/LerichO/planner-full-stack-app)
 * [MERN Full-Stack Exercise Tracker Application from freeCodeCamp.com](https://github.com/LerichO/mern-exercise-tracker)
 * [ACM Research - Conceal and Reveal: Exploring Image Steganography and Steganalysis](https://github.com/ACM-Research/Conceal-and-Reveal/)
-* [Small Services Finder Flask application for FinTech Focus](https://github.com/LerichO/final-project)
+* [Small Services Finder Flask Application for FinTech Focus](https://github.com/LerichO/final-project)
 * [Sea Monster Crowdfunding for CodePath WEB102's prework](https://github.com/LerichO/web102_prework)
 
 And more throughout my repositories that are both work in progress and completed!
