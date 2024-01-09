@@ -18,7 +18,7 @@ And more throughout my repositories that are both work in progress and completed
 
 **Languages:**
 
-  [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,html,css,bash)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,c,bash)](https://skillicons.dev)
 
 
 **Frameworks/Libraries:** 
