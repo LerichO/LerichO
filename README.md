@@ -23,7 +23,7 @@ And more throughout my repositories that are both work in progress and completed
 
 **Frameworks/Libraries:** 
 
-  [![My Skills](https://skillicons.dev/icons?i=react,express,flask,spring,tailwind,bootstrap)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,express,flask,spring,sklearn,tailwind,bootstrap)](https://skillicons.dev)
 
 **Other Development Tools:**
 
