@@ -6,10 +6,10 @@ I am an undergraduate Computer Science student from The University of Texas at D
 
 ## Some Projects I am Proud to Share:
 
-* [Personal Planner Full-Stack Web Application](https://github.com/LerichO/planner-full-stack-app)
+* [ACM Projects - Market Maven](https://github.com/acm-projects/Market-Maven)
 * [ACM Research - Conceal and Reveal: Exploring Image Steganography and Steganalysis](https://github.com/ACM-Research/Conceal-and-Reveal/)
-* [MERN Full-Stack Exercise Tracker Application from freeCodeCamp.com](https://github.com/LerichO/mern-exercise-tracker)
-* [homeAloan Minimum Viable Product for HackUTD X: Golden Hour](https://github.com/LerichO/homeAloan)
+* [Personal Planner Full-Stack Web Application](https://github.com/LerichO/planner-full-stack-app)
+* [homeAloan Protoype Application for HackUTD X: Golden Hour](https://github.com/LerichO/homeAloan)
 * [Sea Monster Crowdfunding Application for CodePath WEB102's prework](https://github.com/LerichO/web102_prework)
 
 And more throughout my repositories that are both work in progress and completed!
