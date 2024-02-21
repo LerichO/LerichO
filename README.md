@@ -10,7 +10,7 @@ I am an undergraduate Computer Science student from The University of Texas at D
 * [ACM Research - Conceal and Reveal: Exploring Image Steganography and Steganalysis](https://github.com/ACM-Research/Conceal-and-Reveal/)
 * [Personal Planner Full-Stack Web Application](https://github.com/LerichO/planner-full-stack-app)
 * [homeAloan Protoype Application for HackUTD X: Golden Hour](https://github.com/LerichO/homeAloan)
-* [Sea Monster Crowdfunding Application for CodePath WEB102's prework](https://github.com/LerichO/web102_prework)
+* [PhishNet Prototype Application for TAMUhack X](https://github.com/keeganasmith/tamuhack2024/)
 
 And more throughout my repositories that are both work in progress and completed!
 
@@ -18,7 +18,7 @@ And more throughout my repositories that are both work in progress and completed
 
 **Languages:**
 
-  [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,c,bash)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,c,bash,md,latex)](https://skillicons.dev)
 
 
 **Frameworks/Libraries:** 
@@ -27,7 +27,7 @@ And more throughout my repositories that are both work in progress and completed
 
 **Other Development Tools:**
 
-  [![My Skills](https://skillicons.dev/icons?i=git,mongodb,nodejs,maven,idea,vscode,postman,heroku)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,mongodb,npm,nodejs,maven,idea,vscode,postman,figma,heroku)](https://skillicons.dev)
 
   
 <!--
