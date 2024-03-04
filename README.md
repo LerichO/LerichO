@@ -6,7 +6,7 @@ I am an undergraduate Computer Science student from The University of Texas at D
 
 ## Some Projects I am Proud to Share:
 
-* [ACM Projects - Market Maven](https://github.com/acm-projects/Market-Maven)
+* [ACM Projects - Market Maven, Full-Stack MERN e-commerce website](https://github.com/acm-projects/Market-Maven)
 * [ACM Research - Conceal and Reveal: Exploring Image Steganography and Steganalysis](https://github.com/ACM-Research/Conceal-and-Reveal/)
 * [Personal Planner Full-Stack Web Application](https://github.com/LerichO/planner-full-stack-app)
 * [homeAloan Protoype Application for HackUTD X: Golden Hour](https://github.com/LerichO/homeAloan)
