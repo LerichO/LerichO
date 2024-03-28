@@ -12,22 +12,22 @@ I am an undergraduate Computer Science student from The University of Texas at D
 * [homeAloan Protoype Application for HackUTD X: Golden Hour](https://github.com/LerichO/homeAloan)
 * [PhishNet Prototype Application for TAMUhack X](https://github.com/keeganasmith/tamuhack2024/)
 
-And more throughout my repositories that are both work in progress and completed!
+And more!
 
 ## Tools and Technologies I Have Worked With:
 
 **Languages:**
 
-  [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,c,bash,md,latex)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,ts,html,css,c,bash,md,latex)](https://skillicons.dev)
 
 
 **Frameworks/Libraries:** 
 
-  [![My Skills](https://skillicons.dev/icons?i=react,express,flask,spring,sklearn,tailwind,bootstrap)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,express,flask,spring,sklearn,tailwind,nextjs,bootstrap)](https://skillicons.dev)
 
 **Other Development Tools:**
 
-  [![My Skills](https://skillicons.dev/icons?i=git,mongodb,npm,nodejs,maven,idea,vscode,postman,figma,heroku)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,mongodb,npm,nodejs,maven,idea,vscode,vite,postman,figma,heroku)](https://skillicons.dev)
 
   
 <!--
