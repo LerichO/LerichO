@@ -23,7 +23,7 @@ And more!
 
 **Frameworks/Libraries:** 
 
-  [![My Skills](https://skillicons.dev/icons?i=react,express,flask,spring,sklearn,tailwind,nextjs,bootstrap)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,express,flask,tailwind,spring,sklearn,nextjs,bootstrap)](https://skillicons.dev)
 
 **Other Development Tools:**
 
