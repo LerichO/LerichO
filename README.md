@@ -23,11 +23,11 @@ And more!
 
 **Frameworks/Libraries:** 
 
-  [![My Skills](https://skillicons.dev/icons?i=react,express,flask,tailwind,spring,sklearn,nextjs,bootstrap)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,express,flask,tailwind,angular,spring,nextjs,materialui,sklearn)](https://skillicons.dev)
 
 **Other Development Tools:**
 
-  [![My Skills](https://skillicons.dev/icons?i=git,mongodb,npm,nodejs,maven,idea,vscode,vite,postman,figma,heroku)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,mongodb,npm,nodejs,supabase,idea,vscode,vite,postman,figma,heroku)](https://skillicons.dev)
 
   
 <!--
