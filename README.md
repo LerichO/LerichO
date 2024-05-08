@@ -8,7 +8,7 @@ I am an undergraduate Computer Science student from The University of Texas at D
 
 * [ACM Projects - Market Maven, Full-Stack MERN e-commerce website](https://github.com/acm-projects/Market-Maven)
 * [ACM Research - Conceal and Reveal: Exploring Image Steganography and Steganalysis](https://github.com/ACM-Research/Conceal-and-Reveal/)
-* [Personal Planner Full-Stack Web Application](https://github.com/LerichO/planner-full-stack-app)
+* [SHPE UTD Chapter Website](https://shpeutd.vercel.app/)
 * [homeAloan Protoype Application for HackUTD X: Golden Hour](https://github.com/LerichO/homeAloan)
 * [PhishNet Prototype Application for TAMUhack X](https://github.com/keeganasmith/tamuhack2024/)
 
