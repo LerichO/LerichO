@@ -1,46 +1,28 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Lerich%20👋&textBg=false&fontAlign=50&fontAlignY=40&animation=blink" width="100%" />
+<p>I am an undergraduate Computer Science student from The University of Texas at Dallas that seeks to demonstrate my growing software engineering skills with this GitHub profile. I have experience in <b>full-stack web development</b> as well as a growing interest in machine learning. I look forward to any exciting oppurtunities and projects that I can contribute to!</p>
 
-My name is **Lerich Osay**! 
+<h2>🛠 Some Projects</h2>
 
-I am an undergraduate Computer Science student from The University of Texas at Dallas that seeks to demonstrate my growing software engineering skills with this GitHub profile. I look forward to any exciting oppurtunities and projects that I can contribute to!
+[![ACM Projects - Market Maven](https://img.shields.io/badge/ACM_Projects:_Market_Maven-green)](https://github.com/acm-projects/Market-Maven)
+[![ACM Research - Conceal and Reveal](https://img.shields.io/badge/ACM_Research:_Conceal_and_Reveal-orange)](https://github.com/ACM-Research/Conceal-and-Reveal/)
+[![SHPE UTD Chapter Website](https://img.shields.io/badge/SHPE_UTD_Chapter_Website-blue)](https://shpeutd.vercel.app/)
+[![homeAloan Protoype Application for HackUTD X: Golden Hour](https://img.shields.io/badge/HackUTD_2023:_homeAloan-gold)](https://github.com/LerichO/homeAloan)
+[![PhishNet Prototype Application for TAMUhack X](https://img.shields.io/badge/TAMUhack_2024:_PhishNet-pink)](https://github.com/keeganasmith/tamuhack2024/)
 
-## Some Projects I am Proud to Share:
-
-* [ACM Projects - Market Maven, Full-Stack MERN e-commerce website](https://github.com/acm-projects/Market-Maven)
-* [ACM Research - Conceal and Reveal: Exploring Image Steganography and Steganalysis](https://github.com/ACM-Research/Conceal-and-Reveal/)
-* [SHPE UTD Chapter Website](https://shpeutd.vercel.app/)
-* [homeAloan Protoype Application for HackUTD X: Golden Hour](https://github.com/LerichO/homeAloan)
-* [PhishNet Prototype Application for TAMUhack X](https://github.com/keeganasmith/tamuhack2024/)
-
-And more!
-
-## Tools and Technologies I Have Worked With:
-
-**Languages:**
+<h2>💻 Tech Stack</h2>
 
   [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,ts,html,css,c,bash,md,latex)](https://skillicons.dev)
 
-
-**Frameworks/Libraries:** 
-
   [![My Skills](https://skillicons.dev/icons?i=react,express,flask,tailwind,angular,spring,nextjs,materialui,sklearn)](https://skillicons.dev)
-
-**Other Development Tools:**
 
   [![My Skills](https://skillicons.dev/icons?i=git,mongodb,npm,nodejs,supabase,idea,vscode,vite,postman,figma,heroku)](https://skillicons.dev)
 
-  
-<!--
-**LerichO/LerichO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📈 Statistics</h2>
+<div align="center">
+<a href="https://github.com/LerichO">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LerichO&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LerichO&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LerichO&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LerichO&theme=transparent" height="180em" />
+</div>
