@@ -19,10 +19,10 @@
 
 
 <h2>📈 Statistics</h2>
-<div align="center">
-<a href="https://github.com/LerichO">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LerichO&theme=transparent" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LerichO&theme=transparent" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LerichO&theme=transparent" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LerichO&theme=transparent" height="180em" />
+<div style="display: flex; flex-direction: column; align-items: left; max-width: 1000px; margin: auto;">
+    <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px; width: 100%;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LerichO&theme=github_dark" height="180em" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LerichO&theme=github_dark" height="180em" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LerichO&theme=github_dark" height="180em" />
+    </div>
 </div>
