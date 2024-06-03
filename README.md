@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0366d6&fontColor=dfe3ec&text=Hi,%20I'm%20Lerich%20👋&textBg=false&fontAlign=50&fontAlignY=40&animation=blink" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=0E7FC0&fontColor=dfe3ec&text=Hi,%20I'm%20Lerich%20👋&textBg=false&fontAlign=50&fontAlignY=35&animation=blink" width="100%" />
 
 <h1>👤 About Me</h1>
 <p>I am an undergraduate Computer Science student from The University of Texas at Dallas that seeks to demonstrate my growing software engineering skills with this GitHub profile. I primarily have experience in <b>full-stack web development</b> as well as a growing interest in <b>machine learning</b>.</p>
