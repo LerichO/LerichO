@@ -12,7 +12,7 @@
 
 [![SHPE UTD Chapter Website](https://img.shields.io/badge/SHPE_UTD_Chapter_Website-Website_for_the_Society_of_Hispanic_Professional_Engineers_at_UT_Dallas-blue)](https://shpeutd.vercel.app/)
 
-[![Soulstice Dating](https://img.shields.io/badge/Soulstice_Dating-Blind_dates_connecting_soulmates-blue)]([https://github.com/LerichO/homeAloan](https://soulsticedating.com/))
+[![Soulstice Dating](https://img.shields.io/badge/Soulstice_Dating-Blind_dates_connecting_soulmates-blue)](https://soulsticedating.com)
 
 [![PhishNet Prototype Application for TAMUhack X](https://img.shields.io/badge/PhishNet-Phish_detection_web_application_developed_during_TAMUhack_X-blue)](https://github.com/keeganasmith/tamuhack2024/)
 
