@@ -1,20 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=0E7FC0&fontColor=dfe3ec&text=Hi,%20I'm%20Lerich%20👋&textBg=false&fontAlign=50&fontAlignY=35&animation=blink" width="100%" />
 
 <h1>👤 About Me</h1>
-<p>I am an undergraduate Computer Science student from The University of Texas at Dallas that seeks to demonstrate my growing software engineering skills with this GitHub profile. I primarily have experience in <b>full-stack web development</b> as well as a growing interest in <b>machine learning</b>.</p>
+<p>I am an undergraduate Computer Science student from The University of Texas at Dallas that seeks to demonstrate my growing software engineering skills with this GitHub profile. I primarily have experience in <b>full-stack web development</b> as well as a growing interest in <b>machine learning</b> and <b>cloud computing</b>.</p>
 <p>I look forward to any exciting oppurtunities and projects that I can contribute to!</p>
 
 <h1>🛠 Top Projects</h1>
 
-[![ACM Projects - Market Maven](https://img.shields.io/badge/ACM_Projects:_Market_Maven-Full--Stack_e--commerce_website_developed_with_the_MERN_stack-blue)](https://github.com/acm-projects/Market-Maven)
+[![UTDesign EPICS - Rainbow Roundup](https://img.shields.io/badge/UTDesign_EPICS:_Rainbow_Roundup-Brand_new_PWA_event_calendar_application_for_local_LGBTQ_nonprofit-blue)](https://github.com/UTDallasEPICS/Rainbow-Roundup-Calendar-Event-App)
 
-[![ACM Research - Conceal and Reveal](https://img.shields.io/badge/ACM_Research:_Conceal_and_Reveal-Exploring_Image_Steganography_and_Steganalysis-blue)](https://github.com/ACM-Research/Conceal-and-Reveal/)
+[![ACM Projects - Market Maven](https://img.shields.io/badge/ACM_Projects:_Market_Maven-Full--Stack_e--commerce_website_developed_with_the_MERN_stack-blue)](https://github.com/acm-projects/Market-Maven)
 
 [![SHPE UTD Chapter Website](https://img.shields.io/badge/SHPE_UTD_Chapter_Website-Website_for_the_Society_of_Hispanic_Professional_Engineers_at_UT_Dallas-blue)](https://shpeutd.vercel.app/)
 
 [![Soulstice Dating](https://img.shields.io/badge/Soulstice_Dating-Blind_dates_connecting_soulmates-blue)](https://soulsticedating.com)
-
-[![PhishNet Prototype Application for TAMUhack X](https://img.shields.io/badge/PhishNet-Phish_detection_web_application_developed_during_TAMUhack_X-blue)](https://github.com/keeganasmith/tamuhack2024/)
 
 <h1>💻 Tech Stack</h1>
 
@@ -32,9 +30,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -48,11 +48,14 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
