@@ -6,36 +6,22 @@
 
 <h1>🛠 Top Projects</h1>
 
-[![UTDesign EPICS - Rainbow Roundup](https://img.shields.io/badge/UTDesign_EPICS:_Rainbow_Roundup-Brand_new_PWA_event_calendar_application_for_local_LGBTQ_nonprofit-blue)](https://github.com/UTDallasEPICS/Rainbow-Roundup-Calendar-Event-App)
-
-[![ACM Projects - Market Maven](https://img.shields.io/badge/ACM_Projects:_Market_Maven-Full--Stack_e--commerce_website_developed_with_the_MERN_stack-blue)](https://github.com/acm-projects/Market-Maven)
-
-[![SHPE UTD Chapter Website](https://img.shields.io/badge/SHPE_UTD_Chapter_Website-Website_for_the_Society_of_Hispanic_Professional_Engineers_at_UT_Dallas-blue)](https://shpeutd.vercel.app/)
-
-[![Soulstice Dating](https://img.shields.io/badge/Soulstice_Dating-Blind_dates_connecting_soulmates-blue)](https://soulsticedating.com)
+- 🤝 **[Orbital Mentorship](https://orbitalmentorship.org)**: Mentorship matching platform promoting long-term professional connections
+- 🌈 **[Rainbow Roundup Event Calendar](https://github.com/UTDallasEPICS/Rainbow-Roundup-Calendar-Event-App)**: Brand new progressive web app for local non-profit Rainbow Roundup
+- 🛒 **[ACM Projects - Market Maven](https://github.com/acm-projects/Market-Maven)**: P2P e-commerce project built under ACM UTD's Projects Division
+- 💼 **[SHPE UTD Chapter Website](https://shpeutd.org)**: Website for the Society of Hispanic Professional Engineers at UTD
 
 <h1>💻 Tech Stack</h1>
 
-#### Lanugages ####
+#### Frameworks & Libraries ####
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Frameworks ####
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=#00DC82)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -48,7 +34,7 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
